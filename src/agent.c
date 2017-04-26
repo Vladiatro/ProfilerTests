@@ -8,7 +8,7 @@
  * This is the agent which runs {@link net.falsetrue.Test},
  * and profile creations of {@link net.falsetrue.Item} using constructor breakpoints.
  *
- * Compile it into share library and run Test using:
+ * Compile it into a shared library and run Test using:
  * java -agentpath:/path/to/library net.falsetrue.Test 10 1000000
  *
  * \authors Vlad Myachikov
